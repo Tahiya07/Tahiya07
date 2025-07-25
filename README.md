@@ -9,15 +9,24 @@
   💡 Passionate about building creative, useful, and visually appealing digital solutions.
 </p>
 
-
+---
 ### 📌 About Me
 
 - 🎓 Third year BSc student in Computer Science & Engineering
 - 🌱 Currently learning **React**, **Tailwind CSS**, **Next.js**, and **Figma**
 - 🛠️ I enjoy designing beautiful interfaces and coding them into interactive web apps
 - 🎯 Goal: Become a Full-Stack Developer with strong frontend skills
-- ✨ Fun Fact: I love organizing digital content, aesthetic workspaces, and clean UI!
+- ✨ I love organizing digital content, aesthetic workspaces, and clean UI!
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9ADBB3&height=100&section=footer"/>
+</p>
+
+
+> _“Design is not just what it looks like and feels like. Design is how it works.”_ — Steve Jobs
+ 
 ---
 
 ### 🧰 Tech Stack
@@ -31,6 +40,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+### 📖 Currently Learning
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white)
+
+
+
+### 🧰 Tools I Use
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+---
 
 ### 📊 GitHub Stats
 
@@ -41,7 +64,13 @@
 </p>
 
 ---
+### 🏆 GitHub Achievements
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tahiya07&theme=flat&row=1&margin-w=10&no-bg=true&title=Commits,Repositories,Stars,Followers,PullRequest" />
+</p>
+
+---
 ### 📫 Let's Connect
 
 - ✉️ Email: [tahiyazareen.07@gmail.com](mailto:tahiyazareen.07@gmail.com)
@@ -51,4 +80,7 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tahiya07&color=9ADBB3&style=flat)
+---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tahiya07&repo=Portfolio&theme=calm)](https://github.com/Tahiya07/Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tahiya07&repo=UAP_copy&theme=calm)](https://github.com/Tahiya07/UAP_copy)
 
