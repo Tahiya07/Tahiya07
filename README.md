@@ -28,7 +28,18 @@
 > _“Design is not just what it looks like and feels like. Design is how it works.”_ — Steve Jobs
  
 ---
+### 📫 Let's Connect
 
+- ✉️ Email: [tahiyazareen.07@gmail.com](mailto:tahiyazareen.07@gmail.com)
+- 💼 LinkedIn: [Tahiya Zareen Hiya](www.linkedin.com/in/tahiya-zareen-hiya-967a542ab)
+- 🌐 Portfolio: [Tahiya Zareen Hiya](https://tahiya07.github.io/Portfolio/)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tahiya07&color=9ADBB3&style=flat)
+
+
+---
 ### 🧰 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -70,16 +81,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Tahiya07&theme=flat&row=1&margin-w=10&no-bg=true&title=Commits,Repositories,Stars,Followers,PullRequest" />
 </p>
 
----
-### 📫 Let's Connect
-
-- ✉️ Email: [tahiyazareen.07@gmail.com](mailto:tahiyazareen.07@gmail.com)
-- 💼 LinkedIn: [Tahiya Zareen Hiya](www.linkedin.com/in/tahiya-zareen-hiya-967a542ab)
-- 🌐 Portfolio: [Tahiya Zareen Hiya](https://tahiya07.github.io/Portfolio/)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Tahiya07&color=9ADBB3&style=flat)
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tahiya07&repo=Portfolio&theme=calm)](https://github.com/Tahiya07/Portfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tahiya07&repo=UAP_copy&theme=calm)](https://github.com/Tahiya07/UAP_copy)
