@@ -1,9 +1,14 @@
+<h1 align="center">👋 Hi! I'm Tahiya Zareen Hiya!</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FCA5A5&center=true&vCenter=true&multiline=true&width=500&lines=Hi+there%2C+I'm+Tahiya+Zareen+Hiya!;Aspiring+Frontend+Developer;UI%2FUX+Design+Lover+%F0%9F%8E%A8;CSE+Student+%F0%9F%92%BB;Let's+Build+Something+Beautiful!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lexend+Code&weight=600&size=30&pause=800&color=9ADBB3&center=true&vCenter=true&width=600&lines=CSE+Student;Frontend+Developer;UI%2FUX+Design+Enthusiast;React+%7C+Tailwind+%7C+Next.js+Learner;Creative+Problem+Solver" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  🌸 CSE Student | 💻 Aspiring Frontend Developer | 🎨 UI/UX Enthusiast <br>
+  💡 Passionate about building creative, useful, and visually appealing digital solutions.
+</p>
 
----
 
 ### 📌 About Me
 
@@ -45,5 +50,5 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tahiya07&color=38B2AC&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Tahiya07&color=9ADBB3&style=flat)
 
