@@ -12,8 +12,8 @@
 ---
 ### 📌 About Me
 
-- 🎓 Third year BSc student in Computer Science & Engineering
-- 🌱 Currently learning **React**, **Tailwind CSS**, **Next.js**, and **Figma**
+- 🎓 Fourth year BSc student in Computer Science & Engineering
+- 🌱 Currently learning **React**,**Next.js**
 - 🛠️ I enjoy designing beautiful interfaces and coding them into interactive web apps
 - 🎯 Goal: Become a Full-Stack Developer with strong frontend skills
 - ✨ I love organizing digital content, aesthetic workspaces, and clean UI!
@@ -32,7 +32,7 @@
 
 - ✉️ Email: [tahiyazareen.07@gmail.com](mailto:tahiyazareen.07@gmail.com)
 - 💼 LinkedIn: [Tahiya Zareen Hiya](www.linkedin.com/in/tahiya-zareen-hiya-967a542ab)
-- 🌐 Portfolio: [Tahiya Zareen Hiya](https://tahiya07.github.io/Portfolio/)
+- 🌐 Portfolio: [Tahiya Zareen Hiya](https://tahiya07.github.io/Tahiya.view/)
 
 ---
 
