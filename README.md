@@ -137,13 +137,13 @@ Goal      : Build beautiful, accessible, impactful digital products
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahiya07&theme=vue&bg_color=transparent&color=1A9C8A&line=1A9C8A&point=0F6E56&area=true&area_color=9FE1CB&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tahiya07/Tahiya07/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tahiya07/Tahiya07/output/github-snake.svg" />
     <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Tahiya07/Tahiya07/output/github-snake.svg" />
   </picture>
-</p>
+</p> -->
 
 <br/>
 
