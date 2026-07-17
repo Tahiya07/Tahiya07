@@ -24,7 +24,7 @@
 ```yaml
 Name      : Tahiya Zareen Hiya
 Degree    : B.Sc. CSE — University of Asia Pacific
-CGPA      : 3.63 / 4.00  (4th Year)
+CGPA      : 3.67 / 4.00  (4th Year)
 Location  : Dhaka, Bangladesh
 Focus     : Frontend Development + UI/UX Design
 Stack     : React · Next.js · TypeScript · Tailwind · Framer Motion
