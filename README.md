@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:9FE1CB&height=200&section=header&text=Tahiya%20Zareen%20Hiya&fontSize=48&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20CSE%20Student&descAlignY=65&descSize=16&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:9FE1CB&height=200&section=header&text=Tahiya%20Zareen%20Hiya&fontSize=48&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20CSE%20Student&descAlignY=65&descSize=16&descAlign=50" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1A9C8A&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind;Building+interfaces+that+sing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1A9C8A&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%8E%A8;Machine+Learning+%E2%80%A2+Next.js+%E2%80%A2+LLM+%E2%80%A2+Expo;Building+interfaces+that+sing+and+systems+that+work%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,15 +19,16 @@
 
 ## 👩‍💻 About Me
 
-> *A frontend developer and designer who combines colourful UI with clean engineering — the result is delightful, accessible, and fast.*
+> *A software developer and AI/ML engineer building intelligent systems with clean engineering — blending scalable software, machine learning, and thoughtful design to create powerful, practical experiences.
+*
 
 ```yaml
 Name      : Tahiya Zareen Hiya
 Degree    : B.Sc. CSE — University of Asia Pacific
 CGPA      : 3.67 / 4.00  (4th Year)
 Location  : Dhaka, Bangladesh
-Focus     : Frontend Development + UI/UX Design
-Stack     : React · Next.js · TypeScript · Tailwind · Framer Motion
+Focus     : Software Development + AI/ML
+Stack     : LLM · Next.js · VLM · Tailwind · Framer Motion · Expo
 Deployed  : Vercel · Render . Railway
 Currently : Exploring full-stack (Django + PostgreSQL) + AI/ML
 Goal      : Build beautiful, accessible, impactful digital products
