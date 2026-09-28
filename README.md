@@ -134,9 +134,9 @@ Goal      : Build beautiful, accessible, impactful digital products
 
 ## 📈 Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahiya07&theme=vue&bg_color=transparent&color=1A9C8A&line=1A9C8A&point=0F6E56&area=true&area_color=9FE1CB&hide_border=true" width="100%" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <picture>
