@@ -41,7 +41,7 @@ Goal      : Build useful, accessible, and well-engineered digital products
 | **Databases** | PostgreSQL · MySQL |
 | **AI / Machine Learning** | PyTorch · TensorFlow · scikit-learn · Hugging Face Transformers · LLMs · NLP · RAG · Computer Vision · OCR · Federated Learning |
 | **Tools & Platforms** | Git · GitHub · Linux · VS Code · Figma · Vercel · Render · Railway |
-
+| **Coding Agents** | Cursor · Codex · Devin  |
 ## Selected work
 
 **[WatchCraft](https://watchcraft.onrender.com)** — Movie platform with authentication, ratings, and reviews, backed by PostgreSQL.  
