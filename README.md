@@ -1,33 +1,32 @@
 <!-- HEADER -->
+
+<h1 align="center">Hi, I'm Tahiya Zareen Hiya 👋</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:9FE1CB&height=190&section=header&text=Tahiya%20Zareen%20Hiya&fontSize=46&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20CSE%20Student&descAlignY=67&descSize=15&descAlign=50" width="100%" />
+  <strong>Software Developer · AI/ML Engineer · Computer Science & Engineering Student</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=1A9C8A&center=true&vCenter=true&width=650&lines=Software+Developer;AI%2FML+Engineer;Frontend+%26+Full-Stack+Development;Building+Practical+Software+with+Thoughtful+Design" alt="Typing SVG" />
+  Building intelligent applications, modern web experiences, and practical machine learning systems.
 </p>
 
 <p align="center">
-  <a href="mailto:tahiyazareen.07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tahiyazareen.07%40gmail.com-1A9C8A?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tahiya-zareen-hiya-967a542ab">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://tahiyaview.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <a href="https://tahiyaview.vercel.app">Portfolio</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/tahiya-zareen-hiya-967a542ab">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:tahiyazareen.07@gmail.com">Email</a>
 </p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,django,postgresql,git&perline=8" />
+</p>
 
-## About
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tahiya07&label=Profile%20Views&color=1A9C8A&style=flat-square" />
+</p>
 
-I’m a Computer Science & Engineering student and software developer focused on building **modern web applications, intelligent systems, and polished user experiences**.
-
-My work sits at the intersection of **frontend engineering and AI/ML**, with an emphasis on clean architecture, reusable components, practical machine learning, and thoughtful interface design.
-
-I enjoy turning ideas into working products—from responsive frontend interfaces and full-stack applications to locally deployable AI systems.
+<br/>
 
 ```yaml
 Name      : Tahiya Zareen Hiya
